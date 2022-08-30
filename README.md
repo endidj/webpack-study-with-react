@@ -2,7 +2,7 @@
 Webpack을 React에 적용하기
 </h2>
 
-<h5 align="center">Create-React-App, Next.js는 처음부터 웹팩이 적용되어 있습니다.</h5><br/><br/>
+<h5 align="center">참고 : Create-React-App, Next.js는 시작부터 웹팩이 적용되어 있습니다.</h5><br/><br/>
 
 [ Contents ] <br/>
 [짧은 용어 설명](#word) <br/>
