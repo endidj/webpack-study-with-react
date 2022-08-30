@@ -16,7 +16,7 @@ Webpack을 React에 적용하기
 
 ## 🐱‍🐉 짧은 용어 설명<a name = "word"></a>
 
-1. 모듈 : 구성요소. Webapck에서는, '파일 한 개' 로 이해하자.<br/>
+1. 모듈 : 구성요소. Webpack에서는, '파일 한 개' 로 이해하자.<br/>
 2. 번들 : 묶음 (여러 개가 1개로 묶여진 것) <br/>
 3. 모듈 번들러 : 여러 파일들을 한개로 묶어주는 것.
 4. Webpack에서의 모듈 : javascript파일, image, css 파일 등.<br/><br/>
@@ -42,12 +42,12 @@ Webpack을 React에 적용하기
 - 사실 모듈 번들러가 아니라, Webpack의 특징.
 - hot reload : 코드 저장하면 자동 새로고침.
 - dev-server : 작은 개발 서버를 띄워서, 브라우저에서 프로젝트를 실행해보게 해준다.
-- HTML, CSS, JS를 압축과 이미지 압축, CSS 전처리기 변환 등등 가능.<br/><br/>
+- HTML, CSS, JS를 압축과 image 압축, CSS 전처리기 변환 등등 가능.<br/><br/>
 
 ## 😉 Webpack의 입력값 <a name = "input"></a>
 
 - webpack.config.js의 기본적인 6가지 입력값의 종류입니다.<br/>
-  ( 자세한 설명은, webpack.config.js을 읽는 것을 추천합니다. )
+// 자세한 설명은, webpack.config.js을 읽는 것을 추천합니다.
 
 1. mode : 웹팩 모드 설정. (개발 or 배포용 or 설정없이)
 2. entry : 웹팩의 시작점이 되는 js파일의 위치.
